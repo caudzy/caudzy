@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @caudzy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-
-<!---
-caudzy/caudzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Basic information
+I'm deng zhiyang from China Agricutural University.I will become an undergraduate student in CAU,studying in bioinformatics.So today,I start to learn programming harder.I used to learn some computing science,but now I think I need to  study harder.
+#Welcome to contact to me
+My e-mail is dzycau@163.com
